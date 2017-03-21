@@ -1,5 +1,5 @@
 .controller.custom{
-	background: url(base.png);
+	background: url(https://github.com/ElderCub/GPV-Wheel/blob/master/Base.png);
 	height: 128px;
 	width: 84px;
 }
@@ -15,6 +15,6 @@
 .custom.trigger{
 	width: 8px;
 	height: 60px;
-	background: url(accelerator.png);
+	background: url(https://github.com/ElderCub/GPV-Wheel/blob/master/accelerator.png);
 	opacity: 0;
 }
