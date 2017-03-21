@@ -1,0 +1,52 @@
+.controller.custom{
+	background: url(base.png);
+	height: 128px;
+	width: 84px;
+}
+
+.custom.triggers{
+	width: 104px;
+	height: 8px;
+	position: absolute;
+	left: 4px;
+}
+
+.custom.trigger{
+	width: 52px;
+	height: 8px;
+	background: url(wheel.png);
+	opacity: 0;
+}
+
+.custom.trigger.left{
+	float: left;
+	transform: rotate(270deg);
+}
+
+.custom.trigger.right{
+	float: right;
+	transform: rotate(90deg);
+}
+
+.custom.arrows{
+	width: 24px;
+	height: 8px;
+	position: absolute;
+	top: 56px;
+	left: 68px;
+}
+
+.custom.back.pressed, .custom.start.pressed{
+	background: url(paddles.png);
+	width: 8px;
+	height: 8px;
+}
+
+.custom.back{
+	float: left;
+}
+
+.custom.start{
+	float: right;
+}
+
