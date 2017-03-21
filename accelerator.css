@@ -1,8 +1,7 @@
 .controller.custom{
 	background: url(Base.png);
 	height: 84px;
-	width: 128px;
-	background-repeat: no-repeat;
+	width: 112;
 }
 
 .custom .triggers{
