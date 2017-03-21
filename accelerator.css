@@ -4,7 +4,7 @@
 	width: 84px;
 }
 
-.custom. triggers{
+.custom .triggers{
 	width: 8px;
 	height: 60px;
 	position: absolute;
@@ -12,7 +12,7 @@
 	left: 36px;
 }
 
-.custom. trigger{
+.custom .trigger{
 	width: 8px;
 	height: 60px;
 	background: url(GPV-Wheel/accelerator.png);
