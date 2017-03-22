@@ -21,4 +21,5 @@
 
 .custom .trigger.left{
 	float: left;
+	transform: rotate(180deg);
 }
