@@ -4,9 +4,15 @@
 	width: 112px;
 }
 
-.custom .bumpers{
-  width: 8px;
+.custom .bumpers.pressed{
+	width: 8px;
+	height: 24px;
+	position: absolute;
+	Left: 68px;
+	Top: 4px;
+	background: url(greenbutton.png)
+}
 	
-
 .custom .bumper.left{
   
+}
