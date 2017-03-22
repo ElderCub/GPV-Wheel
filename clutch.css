@@ -1,7 +1,7 @@
 .controller.custom{
-	background: url(base.png);
-	height: 128px;
-	width: 84px;
+	background: url(Base.png);
+	height: 84px;
+	width: 112px;
 }
 
 .custom.triggers{
@@ -17,4 +17,8 @@
 	height: 60px;
 	background: url(clutch.png);
 	opacity: 0;
+}
+
+.custom .trigger.left{
+	float: left;
 }
