@@ -29,11 +29,6 @@
 	transform: rotate(90deg);
 }
 
-.custom .arrows{
-	position:absolute;
-		width: 24px;
-}
-
 .custom .back.pressed{
 	width: 8px;
 	height: 8px;
