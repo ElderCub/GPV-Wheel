@@ -29,25 +29,28 @@
 	transform: rotate(90deg);
 }
 
-.custom.arrows{
-	width: 24px;
+.custom .arrows{
+	position:absolute;
+		width: 24px;
+}
+
+.custom .back.pressed{
+	width: 8px;
 	height: 8px;
 	position: absolute;
 	top: 56px;
 	left: 68px;
-}
-
-.custom .back.pressed, .custom .start.pressed{
-	background: url(paddles.png);
-	width: 8px;
-	height: 8px;
-}
-
-.custom .back{
+	background: url(redbutton.png);
 	float: left;
 }
 
-.custom .start{
+.custom .start.pressed{
+	width: 8px;
+	height: 8px;
+	position: absolute;
+	top: 56px;
+	left: 84px;
+	background: url(greenbutton.png);
 	float: right;
 }
 
