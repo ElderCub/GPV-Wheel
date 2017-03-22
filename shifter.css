@@ -4,15 +4,65 @@
 	width: 112px;
 }
 
-.custom .bumpers.pressed{
+.custom .back.pressed{
 	width: 8px;
-	height: 24px;
+	height: 8px;
 	position: absolute;
 	Left: 68px;
 	Top: 4px;
 	background: url(greenbutton.png)
 }
 	
-.custom .bumper.left{
-  
+.custom .start.pressed{
+  	width: 8px;
+	height: 8px;
+	position: absolute;
+	Left: 68px;
+	Top: 20px;
+	background: url(greenbutton.png)
+}
+
+.custom .x.pressed{
+  	width: 8px;
+	height: 8px;
+	position: absolute;
+	Left: 84px;
+	Top: 4px;
+	background: url(greenbutton.png)
+}
+
+.custom .y.pressed{
+  	width: 8px;
+	height: 8px;
+	position: absolute;
+	Left: 84px;
+	Top: 20px;
+	background: url(greenbutton.png)
+}
+
+.custom .a.pressed{
+  	width: 8px;
+	height: 8px;
+	position: absolute;
+	Left: 100px;
+	Top: 4px;
+	background: url(greenbutton.png)
+}
+
+.custom .b.pressed{
+  	width: 8px;
+	height: 8px;
+	position: absolute;
+	Left: 100px;
+	Top: 20px;
+	background: url(greenbutton.png)
+}
+
+.custom .stick.pressed.right{
+  	width: 8px;
+	height: 8px;
+	position: absolute;
+	Left: 100px;
+	Top: 36px;
+	background: url(redbutton.png)
 }
