@@ -1,21 +1,21 @@
 .controller.custom{
-	background: url(Base.png);
-	height: 84px;
-	width: 112px;
+	background: url("Base C.png");
+	height: 330px;
+	width: 94px;
 }
 
 .custom .triggers{
-	width: 8px;
-	height: 60px;
+	width: 64px;
+	height: 301px;
 	position: absolute;
-	top: 4px;
-	left: 4px;
+	top: 15px;
+	left: 15px;
 }
 
 .custom .trigger{
-	width: 8px;
-	height: 60px;
-	background: url(clutch.png);
+	width: 64px;
+	height: 301px;
+	background: url("Fill C.png");
 	opacity: 0;
 }
 
