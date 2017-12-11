@@ -7,7 +7,7 @@
 .custom .triggers{
 	width: 173px;
 	height: 301px;
-	position: relative;
+	position: absolute;
 	top: 15px;
 	left: 32px;
 }
