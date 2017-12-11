@@ -1,24 +1,30 @@
 .controller.custom{
-	background: url(Base.png);
-	height: 84px;
-	width: 112px;
+	background: url("Base TB.png");
+	height: 331px;
+	width: 219px;
 }
 
 .custom .triggers{
-	width: 8px;
-	height: 60px;
+	width: 173px;
+	height: 301px;
 	position: relative;
-	top: 4px;
-	left: 36px;
+	top: 15px;
+	left: 31px;
 }
 
 .custom .trigger{
-	width: 8px;
-	height: 60px;
-	background: url(accelerator.png);
+	width: 64px;
+	height: 301px;
+	
 	opacity: 0;
 }
 
 .custom .trigger.left{
+background: url("Fill B.png");
 	float: left;
+}
+
+.custom .trigger.right{
+	background: url("Fill T.png");
+	float: right;
 }
