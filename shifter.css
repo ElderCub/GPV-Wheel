@@ -1,68 +1,68 @@
 .controller.custom{
-	background: url(Base.png);
-	height: 84px;
-	width: 112px;
+	background: url("Base S.png");
+	height: 252px;
+	width: 252px;
 }
 
 .custom .back.pressed{
-	width: 8px;
-	height: 8px;
+	width: 64px;
+	height: 64px;
 	position: absolute;
-	Left: 68px;
-	Top: 4px;
-	background: url(greenbutton.png)
+	Left: 15px;
+	Top: 15px;
+	background: url("Fill S1.png")
 }
 	
 .custom .start.pressed{
-  	width: 8px;
-	height: 8px;
+  	width: 64px;
+	height: 64px;
 	position: absolute;
-	Left: 68px;
-	Top: 20px;
-	background: url(greenbutton.png)
+	Left: 15px;
+	Top: 94px;
+	background: url("Fill S2.png")
 }
 
 .custom .x.pressed{
-  	width: 8px;
-	height: 8px;
+  	width: 64px;
+	height: 64px;
 	position: absolute;
-	Left: 84px;
-	Top: 4px;
-	background: url(greenbutton.png)
+	Left: 94px;
+	Top: 15px;
+	background: url("Fill S3.png")
 }
 
 .custom .y.pressed{
-  	width: 8px;
-	height: 8px;
+  	width: 64px;
+	height: 64px;
 	position: absolute;
-	Left: 84px;
-	Top: 20px;
-	background: url(greenbutton.png)
+	Left: 94px;
+	Top: 94px;
+	background: url("Fill S4.png")
 }
 
 .custom .a.pressed{
-  	width: 8px;
-	height: 8px;
+  	width: 64px;
+	height: 64px;
 	position: absolute;
-	Left: 100px;
-	Top: 4px;
-	background: url(greenbutton.png)
+	Left: 173px;
+	Top: 15px;
+	background: url("Fill S5.png")
 }
 
 .custom .b.pressed{
-  	width: 8px;
-	height: 8px;
+  	width: 64px;
+	height: 64px;
 	position: absolute;
-	Left: 100px;
-	Top: 20px;
-	background: url(greenbutton.png)
+	Left: 173px;
+	Top: 94px;
+	background: url("Fill S6.png")
 }
 
 .custom .stick.pressed.right{
-  	width: 8px;
-	height: 8px;
+  	width: 64px;
+	height: 64px;
 	position: absolute;
-	Left: 100px;
-	Top: 36px;
-	background: url(redbutton.png)
+	Left: 173px;
+	Top: 173px;
+	background: url("Fill SR.png")
 }
