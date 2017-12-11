@@ -7,14 +7,14 @@
 .custom .triggers{
 	width: 395px;
 	height: 64px;
-	top: -7.68px;
-	left: 146px;
+	top: -7.6px;
+	left: 146.5px;
 	position:absolute;
 
 }
 
 .custom .trigger{
-	width: 64.7px;
+	width: 65px;
 	height: 329px;
 	background: url("Fill W.png");
 	opacity: 0;
