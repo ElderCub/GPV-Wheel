@@ -4,7 +4,7 @@ This is a display for use at https://gamepadviewer.com/ Inside, you'll find a sm
 # Quick How-to
 For any of the following displays: Remap the device's input to the coresponding controller input, apply any settings, and apply the custom css. Take the resulting url and paste it into a browser source in OBS or another program of choice. If the inputs are not acting appropriately, you must ensure that in OBS all designated to the same player by scrolling to the beginning of the address and finding `?p=1`
 
-# Wheel.css
+# Wheel and Paddles
 This is for the wheel and either paddle.  
 
 Settings:  
@@ -19,7 +19,7 @@ Remapping:
 Custom CSS URL:  
   https://raw.githubusercontent.com/ElderCub/GPV-Wheel/master/wheel.css
   
-# ThrottleBrake.css
+# Throttle and Brakes
 This is just for the throttle and brake pedal.
 
 Settings:   
@@ -32,7 +32,7 @@ Remapping:
 Custom CSS URL:  
   https://raw.githubusercontent.com/ElderCub/GPV-Wheel/master/throttlebrake.css
   
-# Clutch.css
+# Clutch Pedal
 If you don't have a third petal this is unneccesary.  
 
 Settings:   
@@ -46,7 +46,7 @@ Custom CSS URL:
   
 These three entries above are all for the same device, ensure that in OBS all designated to the same player by scrolling to the beginning of the address and finding `?p=1`
   
-# eBrake.css
+# eBrake
 This is the only meter that fills from the top down. This offers the appearance of "pulling" rather than pushing a pedal, if requested I can make a version going from the bottom up.
 
 Settings:   
@@ -58,7 +58,7 @@ Remapping:
 Custom CSS URL:  
   https://raw.githubusercontent.com/ElderCub/GPV-Wheel/master/ebrake.css
   
-# Shifter.css
+# H Pattern Shifter
 This is a host of buttons for shifters 1-6 + R. 
 
 Remapping:  
