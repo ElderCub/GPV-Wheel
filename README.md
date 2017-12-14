@@ -1,5 +1,8 @@
 # GPV-Wheel
-This is a display for use at https://gamepadviewer.com/ Inside, you'll find a small group of displays for PC wheels and accesories. Due to the varied complexity and multiple axis' of some of these devices, they may be split into several displays to be reassembled into a program such as OBS.
+This is a display for use at https://gamepadviewer.com/ Inside, you'll find a small group of displays for PC wheels and accesories. Due to the varied complexity and multiple axis' of some of these devices, they may be split into several displays to be reassembled into a program such as OBS. In each section you will find the settings that should be applied, what needs to be remapped for the display to appear correctly, and the url of the custom css for quick access.
+
+# Quick How-to
+For any of the following displays: Remap the device's input to the coresponding controller input, apply any settings, and apply the custom css. Take the resulting url and past it into a browser source in OBS or another program of choice. If the inputs are not acting appropriately, you must ensure that in OBS all designated to the same player by scrolling to the beginning of the address and finding `?p=1`
 
 # Wheel.css
 This is for the wheel axis and either paddle.  
@@ -8,7 +11,7 @@ Settings:
   Strength Meter: Enabled  
   
 Remapping:  
-    Wheel left: Left trigger  
+  Wheel left: Left trigger  
   Wheel right: Right trigger  
   Paddle left: Select  
   Paddle right: Start  
