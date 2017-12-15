@@ -5,7 +5,7 @@ This is a display for use at https://gamepadviewer.com/ Inside, you'll find a sm
 For any of the following displays: Remap the device's input to the coresponding controller input, apply any settings, and apply the custom css. Take the resulting url and paste it into a browser source in OBS or another program of choice. If the inputs are not acting appropriately, you must ensure that in OBS all designated to the same player by scrolling to the beginning of the address and finding `?p=1`
 
 # Wheel and Paddles
-This is for the wheel and the shifting paddles.  
+This is for the wheel and either paddle.  
 
 Settings:  
   Strength Meter: Enabled  
@@ -19,7 +19,7 @@ Remapping:
 Custom CSS URL:  
   https://raw.githubusercontent.com/ElderCub/GPV-Wheel/master/wheel.css
   
-# Throttle and Brakes
+# Throttle and Brake Pedals
 This is just for the throttle and brake pedal.
 
 Settings:   
