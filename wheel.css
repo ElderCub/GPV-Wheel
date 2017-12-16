@@ -1,21 +1,25 @@
+
+
 .controller.custom{
+
 	background: url("Base W.png");
+
 	height: 203px;
 	width: 688px;
 }
 
 .custom .triggers{
-	width: 395px;
+	width: 394px;
 	height: 64px;
-	top: -7.6px;
-	left: 146.5px;
+	top: -8px;
+	left: 147px;
 	position:absolute;
 
 }
 
 .custom .trigger{
-	width: 65px;
-	height: 329px;
+	width: 64px;
+	height: 328px;
 	background: url("Fill W.png");
 	opacity: 0;
 
@@ -23,7 +27,9 @@
 
 .custom .trigger.left{
 	float: left;
-	transform:rotate(270deg);
+	
+	transform:scaleX(-1)rotate(90deg);
+	
 }
 
 .custom .trigger.right{
