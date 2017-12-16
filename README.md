@@ -5,7 +5,7 @@ This is a display for use at https://gamepadviewer.com/ Inside, you'll find a sm
 For any of the following displays: Remap the device's input to the coresponding controller input, apply any settings, and apply the custom css. Take the resulting url and paste it into a browser source in OBS or another program of choice. If the inputs are not acting appropriately, you must ensure that in OBS all designated to the same player by scrolling to the beginning of the address and finding `?p=1`
 
 # Wheel and Paddles
-This is for the wheel and either paddle.  
+This is for the wheel and the shifter paddles. Subsequent versions will move the paddles to the wheel specific layouts.  
 
 Settings:  
   Strength Meter: Enabled  
